@@ -208,7 +208,6 @@
   "integrity" "sha512-SoLNw70y77Pil/X8T2CqzPX94j3gJ6kB7MA/75R+Qco2KehUsgw1MU6LpyC4iEJxsfKztyOY30/ssLq8+YgWUg=="
   "resolved" "https://registry.npmjs.org/@netlify/plugin-nextjs/-/plugin-nextjs-4.7.0.tgz"
   "version" "4.7.0"
-  package = "@netlify/plugin-nextjs"
   dependencies:
     "@netlify/functions" "^1.0.0"
     "@netlify/ipx" "^0.0.10"
