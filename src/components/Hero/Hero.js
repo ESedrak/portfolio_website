@@ -19,8 +19,7 @@ const Hero = () => (
         <SectionText>Learning new skills, one day at a time</SectionText>
         <Button
           onClick={() =>
-            (window.location =
-              "https://www.linkedin.com/in/elizabeth-sedrak-36924a1b4/")
+            (window.location = "https://cosmic-gumption-169d87.netlify.app//")
           }
         >
           Learn More
