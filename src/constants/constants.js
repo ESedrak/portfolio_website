@@ -43,11 +43,6 @@ export const projects = [
 
 export const TimeLineData = [
   {
-    year: 1994,
-    month: "December",
-    text: "Was born",
-  },
-  {
     year: 2017,
     month: "November",
     text: "Completed Bachelor of Medical Radiations (Nuclear Medicine)",
